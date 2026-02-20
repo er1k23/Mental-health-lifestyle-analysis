@@ -1,25 +1,29 @@
 # Lifestyle Factors and Mental Health Analysis
 
-Goal
+### 📌 Overview
 
-Implement exploratory data analysis (EDA) and data visualization techniques on a Lifestyle & Mental Health dataset to investigate how daily habits such as sleep, work hours, screen time, exercise, diet, and stress levels influence overall happiness and psychological well-being.
-The project aims to identify patterns, correlations, and key lifestyle factors that contribute to mental health outcomes using statistical analysis and visual exploration.
+Exploratory Data Analysis (EDA) project examining how lifestyle habits influence mental well-being and happiness levels.
+The analysis investigates relationships between sleep, work hours, screen time, exercise, diet quality, stress, and overall psychological health.
 
+### 🔎 Approach
 
-Dataset Description
-Lifestyle and mental health survey data containing behavioral, physical, and emotional indicators related to individual well-being. The dataset includes:
+- Data cleaning and preprocessing
+- Handling missing values
+- Correlation analysis
+- Statistical summaries
+- Insight-driven visualizations
 
-Sleep duration
-Work hours
-Screen time
-Exercise frequency
-Diet quality
-Stress level
-Social interaction
-Happiness score
-Mental health condition indicators
-This dataset is used for educational and analytical purposes to understand the relationship between lifestyle choices and psychological health.
+### 🛠 Tech Stack
 
-Acknowledgment
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-This project is developed for academic and learning purposes in the field of data science and health analytics. The dataset represents behavioral and mental health factors commonly studied in psychological and lifestyle research.
+🚀 Demonstrates
+
+- Data wrangling & preprocessing
+- Statistical reasoning
+- Behavioral data analysis
+- Clear insight communication through visualization
